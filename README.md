@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Rizwin Ahamed 👋
 
-<!--
-**rack0911/rack0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founding Engineer & Solutions Architect** | **B.Tech (EEE), NIT Calicut** | **Ex-Nestlé Senior Officer**
 
-Here are some ideas to get you started:
+I build 0→1 cloud systems, industrial IIoT/AI workflows, and contribute to privacy-first open-source software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Merged Open-Source Contributions
+
+| Project | PR | Contribution |
+| :--- | :--- | :--- |
+| **Mozilla Thunderbird Android** | [#11820](https://github.com/thunderbird/thunderbird-android/pull/11820), [#11904](https://github.com/thunderbird/thunderbird-android/pull/11904) | Fix drawer sync icon rotation direction; add root contributor guide |
+| **Bitwarden Android** | [#7584](https://github.com/bitwarden/android/pull/7584) | Use distinct vault icon for My Vault quick-action tile |
+| **Wikimedia Wikipedia Android** | [#7144](https://github.com/wikimedia/apps-android-wikipedia/pull/7144), [#7143](https://github.com/wikimedia/apps-android-wikipedia/pull/7143) | Enforce `minoredit` permission guard; fix Wiktionary `Locale.ROOT` fallback |
+| **SearXNG** | [#6935](https://github.com/searxng/searxng/pull/6935) | Harden `_normalize_text_field` and handle missing `tagesschau` fields |
+
+*(View all merged & active PRs: [GitHub Pull Requests (`author:rack0911`)](https://github.com/pulls?q=is%3Apr+author%3Arack0911))*
+
+---
+
+### 🛠️ Personal Projects
+- **[Velqron (MotorVigil IIoT)](https://github.com/rack0911/velqron)** — Offline-first predictive maintenance & local LLM diagnostics for industrial electric motors.
+- **[Digital Swaraj](https://github.com/rack0911/digital-swaraj)** — Pragmatic engineering playbook for digital privacy & FOSS workstation/mobile hardening on the Indian stack.
+
+📫 **Connect:** [LinkedIn (`in/rizwin-ahamed`)](https://www.linkedin.com/in/rizwin-ahamed/)
