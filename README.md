@@ -10,6 +10,7 @@ I build 0→1 cloud systems, industrial IIoT/AI workflows, and contribute to pri
 
 | Project | PR | Contribution |
 | :--- | :--- | :--- |
+| **KeePassDX** | [#2804](https://github.com/Kunzisoft/KeePassDX/pull/2804) | Remove OTP progress bar when OTP field is deleted (`v4.5.9`) |
 | **Home Assistant** | [#50469](https://github.com/home-assistant/home-assistant.io/pull/50469) | Clarify OAuth consent screen setup steps for Google Nest integration |
 | **Mozilla Thunderbird Android** | [#11820](https://github.com/thunderbird/thunderbird-android/pull/11820), [#11904](https://github.com/thunderbird/thunderbird-android/pull/11904) | Fix drawer sync icon rotation direction; add root contributor guide |
 | **Bitwarden Android** | [#7584](https://github.com/bitwarden/android/pull/7584) | Use distinct vault icon for My Vault quick-action tile |
